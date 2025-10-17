@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ece0de8-e1f4-4126-9699-1f5fed4501b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DataScience.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/01. Day 1_Python Basics/Lab001_decision_making.ipynb" afterDir="false" />
+    <list default="true" id="0ece0de8-e1f4-4126-9699-1f5fed4501b7" name="Changes" comment="Day 01 commit">
+      <change afterPath="$PROJECT_DIR$/src/01. Day 1_Python Basics/Lab002_Loops.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01. Day 1_Python Basics/Lab001_decision_making.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/01. Day 1_Python Basics/Lab001_decision_making.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ManshiD"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ManshiD/DataScience",
+    "accountId": "69d9b695-3607-4958-b348-fb88684c30c8"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -61,6 +69,19 @@
       <option name="presentableId" value="Default" />
       <updated>1760692059748</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 01 commit">
+      <option name="closed" value="true" />
+      <created>1760696343428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760696343428</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 01 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 01 commit" />
   </component>
 </project>
